@@ -1,4 +1,4 @@
-// File: C:\Users\hp\OneDrive - Gandhinagar Institute Of Technology\Desktop\next-animated-portfolio\src\app\layout.js
+// File: C:\Users\hp\OneDrive - Gandhinagar Institute Of Technology\Desktop\new_Portfolio\src\app\layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
