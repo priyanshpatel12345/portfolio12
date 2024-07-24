@@ -82,6 +82,12 @@ const AboutPage = () => {
               <div className="rounded p-2 test-sm cursor-pointer bg-black text-white hover:text-black hover:bg-white">
                 Javascript
               </div>
+               <div className="rounded p-2 test-sm cursor-pointer bg-black text-white hover:text-black hover:bg-white">
+                HTML
+              </div>
+               <div className="rounded p-2 test-sm cursor-pointer bg-black text-white hover:text-black hover:bg-white">
+                CSS
+              </div>
               <div className="rounded p-2 test-sm cursor-pointer bg-black text-white hover:text-black hover:bg-white">
                 React.js
               </div>
@@ -160,17 +166,16 @@ const AboutPage = () => {
                 >
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg ">
-                    Senior Javascript Engineer
-                  </div>
+                  Education</div>
                   {/* JOB desc */}
-                  <div className="p-3 text-sm italic">My current Employee</div>
+                  <div className="p-3 text-sm italic"> Currently pursuing a degree in Software Engineering</div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 test-sm font-semibold ">
-                    2024 - present
+                    2022 - 2026
                   </div>
                   {/* JOB Company */}
                   <div className="p-1 rounded bg-white w-fit font-semibold text-sm">
-                    Company
+                    Gandhinagar University
                   </div>
                 </div>
 
@@ -207,17 +212,17 @@ const AboutPage = () => {
                 <div className="w-1/3">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg ">
-                    Senior Javascript Engineer
-                  </div>
+Ingenious Hackathon 5.0</div>
                   {/* JOB desc */}
-                  <div className="p-3 text-sm italic">My current Employee</div>
+                  <div className="p-3 text-sm italic">I collaborated with a team to develop an innovative web
+                    application in a time-constrained environment.</div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 test-sm font-semibold ">
-                    2024 - present
+                    2 - 3 March 2023
                   </div>
                   {/* JOB Company */}
                   <div className="p-1 rounded bg-white w-fit font-semibold text-sm">
-                    Company
+                    Ahmedabad University
                   </div>
                 </div>
               </div>
@@ -233,18 +238,19 @@ const AboutPage = () => {
                 >
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg ">
-                    Senior Javascript Engineer
+                    Blog Website
                   </div>
                   {/* JOB desc */}
-                  <div className="p-3 text-sm italic">My current Employee</div>
+                  <div className="p-3 text-sm italic">Created a blog website showcasing various features and
+                    user-friendly interface.</div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 test-sm font-semibold ">
                     2024 - present
                   </div>
                   {/* JOB Company */}
-                  <div className="p-1 rounded bg-white w-fit font-semibold text-sm">
-                    Company
-                  </div>
+{/*                   <div className="p-1 rounded bg-white w-fit font-semibold text-sm">
+                    
+                  </div> */}
                 </div>
 
                 {/* CENTER */}
