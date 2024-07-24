@@ -25,14 +25,15 @@ const Homepage = () => {
         <div className="h-1/2 flex flex-col lg:h-full lg:w-1/2 gap-8 items-center  justify-center">
           {/* Title */}
           <h1 className="text-3xl md:text-6xl font-bold">
-            Crafting Digital Experience, Designing Tomorrow
+            Transforming Ideas into Digital Masterpieces
           </h1>
           {/* Desc */}
           <p className="md:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
-            eveniet ipsum in. Nulla iusto aliquid nesciunt blanditiis quaerat
-            veniam quis? Aliquam maxime fugit ad, adipisci cumque doloribus quod
-            et rerum.
+           I'm Priyansh Patel, a passionate MERN stack developer specializing
+            in crafting dynamic and user-friendly web applications. With
+            expertise in React, Node.js, and Firebase, I bring innovative ideas
+            to life through clean code and intuitive design. Let's build
+            something amazing together.
           </p>
           {/* Button */}
           <div className="w-full flex gap-4">
